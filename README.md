@@ -8,3 +8,6 @@ https://machinelearningmastery.com/how-to-perform-object-detection-with-yolov3-i
 
 You can download yolov3.weights from below given link
 https://pjreddie.com/darknet/yolo/
+
+Yolo_cpu.py works in CPU
+yolo.ipynb can be runned in jupyter notebook
